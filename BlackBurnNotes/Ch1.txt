@@ -1,0 +1,5 @@
+First Order Logic
+
+1.1 First-Order Logic
+	Vocabulary = set of 2-tuples, where the first element of the 2-tuple is either a predicate or entity, and the second element is the "arity" of the predicate/entity
+	
